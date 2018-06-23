@@ -1,0 +1,11 @@
+body{	
+	padding: 50px;
+	background-image: url(back.jpg);
+	font-family: sans-serif;
+}
+
+#container{
+	margin-left: 8%;
+	display: flex;
+	justify-content: flex;
+}
